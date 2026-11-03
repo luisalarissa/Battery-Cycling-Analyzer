@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+matplotlib>=3.7
+qtpy
+PySide6
+openpyxl
+xlrd
