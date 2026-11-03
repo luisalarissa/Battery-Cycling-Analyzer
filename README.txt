@@ -20,7 +20,7 @@ GET STARTED
 
 HOW TO USE IT
 -------------
-1. Click "Load files" and choose a file from the sample_data folder.
+1. Click "Load files" and choose one of the example files (sample_Arbin_Data.xls or PAT_Cell_Impedance_example.txt).
 2. In the table, type the active material mass in mg in the "Load" column.
 3. Choose cycles on the right (for example: 1 2 3) and press "Apply".
 4. Switch between plots with the tabs at the top: Profiles, Capacity & CE,
